@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dogovoruz.dokufile.com/sitemap.xml
